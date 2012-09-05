@@ -53,7 +53,7 @@ namespace Harvest_Earth.GUI.Controls
             if (CInput.areKeysPressed)
             {
 
-                if (gameTime.TotalGameTime.Milliseconds % 10 != 0)
+                if (gameTime.TotalGameTime.Milliseconds % 20 != 0)
                     return;
 
                 if (CInput.keysPressed[0] == Microsoft.Xna.Framework.Input.Keys.Back)

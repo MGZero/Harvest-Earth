@@ -1,6 +1,3 @@
-# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
-bin
-obj
 
-# mstest test results
-TestResults
+/Harvest Earth/Harvest Earth/Harvest Earth.csproj
+/Harvest Earth/Harvest Earth/Harvest Earth.csproj.Debug.cachefile

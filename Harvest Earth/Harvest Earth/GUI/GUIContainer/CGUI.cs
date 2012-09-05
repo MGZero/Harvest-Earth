@@ -18,6 +18,7 @@ namespace Harvest_Earth.GUI.GUIContainer
         {
             controls.Add("TestButton", new CButton(20, 20));
             controls.Add("TestText", new CTextBox(20, 40));
+            controls.Add("TestImage", new CImageViewer(20, 80, 40, 40, @"D:\Harvest GIT\Harvest Earth\Harvest-Earth\Harvest Earth\Harvest EarthContent\dirt.png"));
         }
 
         public static void runThisShit(GameTime gameTime)
