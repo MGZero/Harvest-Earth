@@ -6,7 +6,6 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework;
 using System.IO;
 
-
 namespace Harvest_Earth.GUI.Controls
 {
     class CImageViewer : CControl
